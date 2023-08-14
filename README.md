@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_aliffadillah" target="blank"><img src="https://img.shields.io/twitter/follow/_aliffadillah?logo=twitter&style=for-the-badge" alt="_aliffadillah" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/aliffadillah_" target="blank"><img src="https://img.shields.io/instagram/follow/aliffadillah_?logo=instagram&style=for-the-badge" alt="_aliffadillah" /></a> </p>
+
+
 - 🔭 I’m currently working on **a Portfolio Website**
 
 - 🌱 I’m currently learning **React, Node, etc.**
