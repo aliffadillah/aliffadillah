@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/_aliffadillah" target="blank"><img src="https://img.shields.io/twitter/follow/_aliffadillah?logo=twitter&style=for-the-badge" alt="_aliffadillah" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/aliffadillah_" target="blank"><img src="https://img.shields.io/instagram/follow/aliffadillah_?logo=instagram&style=for-the-badge" alt="_aliffadillah" /></a> </p>
-
-
 - 🔭 I’m currently working on **a Portfolio Website**
 
 - 🌱 I’m currently learning **React, Node, etc.**
@@ -16,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_aliffadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aliffadillah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliffadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliffadillah" height="30" width="40" /></a>
 <a href="https://instagram.com/aliffadillah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliffadillah_" height="30" width="40" /></a>
 </p>
