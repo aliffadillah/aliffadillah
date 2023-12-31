@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliffadillah&label=Profile%20views&color=0e75b6&style=flat" alt="aliffadillah" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React, Data Analyst**
+- 🌱 I’m currently learning **Flutter, Astro, Data Tech**
 
 - 📫 How to reach me **ed.aliffadillah@gmail.com**
 
