@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliffadillah" alt="aliffadillah" /></a> </p>
 
-- 🔭 I’m currently working on Realtime Object Detection with one of Deep Learning algorithm **Vehicle Detection through RTSP**
+- 🔭 I’m currently working on Nutrition Apps by OCR (Focusing on Nutrition Facts Label)
 
-- 🌱 I’m currently learning **some courses on GCSB**
+- 🌱 I’m currently learning **to be patience**
 
 - 📫 How to reach me **ed.aliffadillah@gmail.com**
 
