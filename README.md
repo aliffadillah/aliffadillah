@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alif Fadillah</h1>
-<h3 align="center">Machine Learning | Web Developer | Cloud Computing</h3>
+<h3 align="center">AI/ML and Cloud Explorer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliffadillah" alt="aliffadillah" /></a> </p>
 
