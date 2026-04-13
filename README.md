@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **about ML/AI and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [aliffadillah.com](aliffadillah.com)
-
-- 📫 How to reach me **ed.aliffadillah@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_aliffadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aliffadillah" height="30" width="40" /></a>
